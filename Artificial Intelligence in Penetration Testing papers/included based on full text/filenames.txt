@@ -1,0 +1,39 @@
+
+
+
+[1] A Knowledge-Based Approach to Network Security - Applying Cyc in the Domain of Network Risk Assessment
+[2] Constructing Plan Trees for Simulated Penetration Testing
+[6] Intelligent, Automated Red Team Emulation
+[11] Project Tink - A Methodology in Simulating Network Attacks
+[12] Reinforcement Learning for Vulnerability Assessment in Peer to Peer Networks
+[13] Simulated Penetration Testing - From "Dijkstra" to "Turing Test++"
+[14] Simulated Penetration Testing and Mitigation Analysis
+[15]Simulating Cyber Attacks for Fun and Profit
+[16] THEORY OF MODERN PENETRATION TESTING EXPERT SYSTEM
+[17] Towards Automated Vulnerability Assessment
+
+
+POMDP (Time vs number of exploits)
+[8] Partially Observable Contingent Planning for Penetration Testing
+[10] POMDPs Make Better Hackers - Accounting for Uncertainty in Penetration Testing
+[9] Penetration Testing POMDP Solving
+
+
+#FIDIUS only evaluates against 1 host and not an entire network
+[5] FIDIUS - Intelligent Support for Vulnerability Testing
+
+Genetic algorithm
+Fitness (efficiency)
+[3] Evolving Computer Intrusion Scripts for Vulnerability Assessment and Log Analysis
+[4] Explanations of unsupervised learning clustering applied to data security analysis
+[7] Multiobjective Evolutionary Clustering Approach to Security Vulnerability Assesments
+
+
+#independant variable =
+#dependant variable =
+#modelling technique =
+#evaluation criteria (calculation used to evaluate the algorithm) =
+# overall paper approach =
+# dataset =
+
+

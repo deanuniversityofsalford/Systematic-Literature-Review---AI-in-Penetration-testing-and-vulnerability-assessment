@@ -1,0 +1,36 @@
+
+[18]An Intelligent Technique for Generating Minimal Attack Graph
+
+[19]Scalable, graphbased network vulnerability analysis.
+[20]Automated generation and analysis of attack graphs.
+[21]Computing Optimal Attack Strategies Using Unconstrained Influence Diagrams
+[22]An Algorithm to Find Optimal Attack Paths in Nondeterministic Scenarios
+
+
+
+
+
+[23]Optimal Network Security Hardening Using Attack Graph Games
+
+
+[24]Attack Planning in the Real World
+
+[25]MulVAL: A Logic-based Network Security Analyzer
+
+[26]Personalized Vulnerability Analysis through Automated Planning
+
+
+[27]Optimal Network Security Hardening Using Attack Graph Games]
+
+[28] Computing Contingent Plans via Fully Observable Non-Deterministic Planning
+
+[29] Personalized Vulnerability Analysis through Automated Planning
+
+[30]Vulnerability analysis of immunity-based intrusion detection systems using genetic and evolutionary hackers
+
+[31]Vulnerability Analysis of Immunity-Based Intrusion Detection Systems Using Evolutionary
+Hackers
+
+[32]On Evolving Buffer Overflow Attacks Using Genetic Programming
+
+[33]Evolving Successful Stack Overflow Attacks for Vulnerability Testing
